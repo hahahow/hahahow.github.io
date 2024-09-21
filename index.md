@@ -8,10 +8,7 @@ layout: page
 
 Here is **Hao Yang (杨浩)**.
 
-<!-- I am a final-year undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined Degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org* -->
-我现在在南京大学做研究助理，主要负责开发可部署的边缘端多模态大模型。我研究生就读于北京语言大学，研究方向为智慧教育，大语言模型推理分析。本科就读于青岛理工大学信息与控制工程学院。现在正在积极寻找读博的机会。
+I am currently a Research Assistant at Nanjing University, focusing on developing deployable edge multimodal large models. I obtained my Master's degree from Beijing Language and Culture University, where my research focused on intelligent education and large language model reasoning analysis. I completed my Bachelor's degree in Computer Science and Technology at the School of Information and Control Engineering, Qingdao University of Technology. <span style="color:red">I am actively seeking opportunities to pursue a PhD.</span>
 
 ## Research Interests
 ### Current Interests
