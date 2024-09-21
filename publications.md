@@ -7,9 +7,9 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Paper List
-
-- [The Implementation Solution for Automatic Visualization of Tabular Data in Relational Databases Based on Large Language Models]<a href="https://ieeexplore.ieee.org/abstract/document/10661162">[PDF]</a>
-<br>**Hao Yang**, Zhaoyong Yang, Ruyang Zhao, Xiaoran Li, Gaoqi Rao~<br>2024 International Conference on Asian Language Processing (IALP)<br>
+- The Implementation Solution for Automatic Visualization of Tabular Data in Relational Databases Based on Large Language Models
+  <a style="color: blue" href="https://ieeexplore.ieee.org/abstract/document/10661162">[PDF]</a>
+  <br>**Hao Yang**, Zhaoyong Yang, Ruyang Zhao, Xiaoran Li, Gaoqi Rao~<br>2024 International Conference on Asian Language Processing (IALP)<br>
 
 - [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
 
