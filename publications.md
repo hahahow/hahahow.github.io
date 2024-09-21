@@ -13,12 +13,7 @@ title: Publications
 
 - Construction of a Scenarioized Knowledge Graph of International Chinese Teaching Resources 
 <br>**Hao Yang**, Jing Xin, Shanyi Zhu, Endong Xun, Gaoqi Rao <a style="color: blue" href="https://how-young-x.github.io/file/kg.pdf">[PDF]</a>
-
-<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
----
+<br>The 25th Chinese Lexical Semantic Workshop(CLSW)
 
 ## Ongoing Project
 
