@@ -12,7 +12,7 @@ I am currently a Research Assistant at Nanjing University, focusing on developin
 
 ## Research Interests
   - **Current Interests**
-    - LLM Reasoning Analysis
+    - LLMs Reasoning Analysis
     - Multi-Modal Large Models
   - **Previous Interests**
     - Table Data Visualization
