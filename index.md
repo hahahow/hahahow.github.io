@@ -11,12 +11,12 @@ Here is **Hao Yang (杨浩)**.
 I am currently a Research Assistant at Nanjing University, focusing on developing deployable edge multimodal large models. I obtained my Master's degree from Beijing Language and Culture University, where my research focused on intelligent education and large language model reasoning analysis. I completed my Bachelor's degree in Computer Science and Technology at the School of Information and Control Engineering, Qingdao University of Technology. <span style="color:red">I am actively seeking opportunities to pursue a PhD.</span>
 
 ## Research Interests
-    ### Current Interests
-        - LLM Reasoning Analys
-        - Multi-Modal Large Models
-    ### Previous Interests
-        - Table Data Visualization
-        - Knowledge Graph
+  - **Current Interests**
+    - LLM Reasoning Analysis
+    - Multi-Modal Large Models
+  - **Previous Interests**
+    - Table Data Visualization
+    - Knowledge Graph
 
 
 ## Academic Background
