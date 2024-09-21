@@ -7,10 +7,10 @@ url: https://how-young-x.github.io
 # Owner/author information
 owner:
   name: Hao Yang
-  # avatar: hanlin.jpg
+  avatar: yanghao.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: howyoung9901@gmail.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://how-young-x.github.io/file/cv.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: How-Young-X
   # linkedin: hanlincai
@@ -74,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: yh
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
